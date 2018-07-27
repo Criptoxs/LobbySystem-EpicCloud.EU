@@ -1,0 +1,6 @@
+name: LobbySystem
+version: 1.0
+author: CloudEXE
+main: net.CloudEXE.lobby.core.Core
+commands:
+  Build:
